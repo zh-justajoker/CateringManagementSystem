@@ -1,0 +1,8 @@
+C:\Users\张航\source\repos\CaterZh\Common\bin\Debug\Common.dll
+C:\Users\张航\source\repos\CaterZh\Common\bin\Debug\Common.pdb
+C:\Users\张航\source\repos\CaterZh\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\张航\source\repos\CaterZh\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\张航\source\repos\CaterZh\Common\obj\Debug\Common.dll
+C:\Users\张航\source\repos\CaterZh\Common\obj\Debug\Common.pdb
+C:\Users\张航\source\repos\CaterZh\Common\bin\Debug\ChnCharInfo.dll
+C:\Users\张航\source\repos\CaterZh\Common\obj\Debug\Common.csproj.CopyComplete
